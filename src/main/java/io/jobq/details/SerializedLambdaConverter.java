@@ -1,4 +1,4 @@
-package io.jobq;
+package io.jobq.details;
 
 import java.lang.invoke.SerializedLambda;
 import java.lang.reflect.Method;
